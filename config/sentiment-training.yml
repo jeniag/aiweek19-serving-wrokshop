@@ -1,0 +1,3 @@
+training:
+    learning_rate: 0.003
+    hidden_units: [500, 100]

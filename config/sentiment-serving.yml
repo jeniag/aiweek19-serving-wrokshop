@@ -1,0 +1,3 @@
+serving:
+    voucher_threshold: 0.4  # Below this threshold we will ofer the user a voucher
+
