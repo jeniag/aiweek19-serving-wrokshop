@@ -11,7 +11,7 @@ You will also need the required packages installed. Try `pip install -r requirem
 ```
 docker run -it  --rm \
 -p 8888:8888 \
-hyness/spring-cloud-config-server \ 
+hyness/spring-cloud-config-server \
 --spring.cloud.config.server.git.uri=https://github.com/jeniag/aiweek19-serving-workshop.git \
 --spring.cloud.config.server.git.searchPaths=config
 ```
