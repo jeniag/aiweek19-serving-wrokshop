@@ -4,7 +4,7 @@ future==0.17.1
 Flask==1.1.1
 grpcio
 grpcio-tools
-tensorflow==2.5.1
+tensorflow==2.5.2
 tensorflow-estimator==1.15.1
 tensorflow-hub==0.6.0
 tensorflow-metadata==0.14.0
